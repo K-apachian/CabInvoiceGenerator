@@ -41,7 +41,7 @@ public class TripValidator {
         }
 
         arr[1] = totalBill;
-        //System.out.print(arr[0]+","+arr[1]);
+        System.out.print("CAB INVOICE GENERATED");
         return arr;
     }
 
